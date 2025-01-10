@@ -24,7 +24,9 @@ The Quiz App is a responsive web application that allows users to take quizzes o
 
 ---
 
-### npm install
+### output
+
+![Screenshot 2025-01-09 211320](https://github.com/user-attachments/assets/08b6843a-4a79-4909-a104-c2d8caacec42)
 
 
 
